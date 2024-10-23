@@ -1,0 +1,17 @@
+.featured-section {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 130px;
+    background-color: var(--primary-color);
+}
+
+.featured{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.card{
+    max-width: 250px;
+    min-width: 80%;
+    max-height: 700px;
+}
